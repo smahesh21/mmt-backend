@@ -1,0 +1,83 @@
+2022-12-26T05:42:01.670Z - [ERROR  ] - read ETIMEDOUT
+2022-12-26T05:42:01.673Z - [ERROR  ] - read ETIMEDOUT
+2022-12-26T05:42:01.675Z - [ERROR  ] - read ETIMEDOUT
+2022-12-26T05:42:01.677Z - [ERROR  ] - read ETIMEDOUT
+2022-12-26T05:42:01.678Z - [ERROR  ] - read ETIMEDOUT
+2022-12-26T05:42:01.680Z - [ERROR  ] - read ETIMEDOUT
+2022-12-26T05:42:01.681Z - [ERROR  ] - read ETIMEDOUT
+2022-12-26T05:42:01.683Z - [ERROR  ] - read ETIMEDOUT
+2022-12-26T05:42:01.684Z - [ERROR  ] - read ETIMEDOUT
+2022-12-26T05:42:01.686Z - [ERROR  ] - read ETIMEDOUT
+2022-12-26T05:42:01.687Z - [ERROR  ] - read ETIMEDOUT
+2022-12-26T05:42:01.689Z - [ERROR  ] - read ETIMEDOUT
+2022-12-26T05:42:01.691Z - [ERROR  ] - read ETIMEDOUT
+2022-12-26T05:42:31.608Z - [ERROR  ] - Cannot enqueue Query after fatal error.
+2022-12-26T05:42:43.764Z - [ERROR  ] - Cannot enqueue Query after fatal error.
+2022-12-26T05:42:44.961Z - [ERROR  ] - Cannot enqueue Query after fatal error.
+2022-12-26T06:16:21.921Z - [ERROR  ] - Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials t9-20020a1709027fc900b00172b87d9770sm6227628plb.81 - gsmtp
+2022-12-26T06:21:18.773Z - [ERROR  ] - Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials m9-20020a654c89000000b0047063eb4098sm5757672pgt.37 - gsmtp
+2022-12-26T06:24:17.478Z - [ERROR  ] - Invalid login: 534-5.7.9 Application-specific password required. Learn more at
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor k1-20020a17090a148100b00218998eb828sm7913652pja.45 - gsmtp
+2022-12-26T06:31:42.934Z - [ERROR  ] - Invalid login: 534-5.7.9 Application-specific password required. Learn more at
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor x13-20020a170902a38d00b00189a50d2a38sm3413541pla.38 - gsmtp
+2022-12-26T06:34:59.455Z - [ERROR  ] - Invalid login: 534-5.7.9 Application-specific password required. Learn more at
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor c134-20020a624e8c000000b00572198393c2sm6094802pfb.194 - gsmtp
+2022-12-26T06:57:43.154Z - [ERROR  ] - Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials s19-20020a170903201300b00187197c4999sm6307581pla.167 - gsmtp
+2022-12-27T07:03:00.152Z - [ERROR  ] - Email already exists
+2023-01-06T10:14:05.623Z - [ERROR  ] - Unexpected token o in JSON at position 1
+2023-01-07T05:44:54.746Z - [ERROR  ] - Email already exists
+2023-01-07T08:15:52.142Z - [ERROR  ] - Name already exists
+2023-01-07T08:45:50.988Z - [ERROR  ] - No data is found with the Email: undefined
+2023-01-07T08:47:06.798Z - [ERROR  ] - No data is found with the Email: undefined
+2023-01-07T08:47:54.606Z - [ERROR  ] - No data is found with the Email: undefined
+2023-01-07T08:48:11.106Z - [ERROR  ] - No data is found with the Email: undefined
+2023-01-07T08:48:16.233Z - [ERROR  ] - No data is found with the Email: undefined
+2023-01-07T09:01:35.340Z - [ERROR  ] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TABLE Users
+                            SET Password="$2b$10$KXpUg8owLahy/iYM/PU' at line 1
+2023-01-07T09:02:18.991Z - [ERROR  ] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TABLE Users
+                            SET Password=$2b$10$sBfitiBP73.oAmrv5ri/' at line 1
+2023-01-07T09:02:51.305Z - [ERROR  ] - ER_BAD_FIELD_ERROR: Unknown column '$2b$10$tES814tgwXsXjw9NJRRwS.7pmt56VuX' in 'field list'
+2023-01-07T09:04:20.543Z - [ERROR  ] - password is not matched
+2023-01-09T06:08:15.384Z - [ERROR  ] - connect EHOSTUNREACH 85.10.205.173:3306
+2023-01-09T06:22:59.643Z - [ERROR  ] - connect EHOSTUNREACH 85.10.205.173:3306
+2023-01-09T12:23:04.630Z - [ERROR  ] - connect EHOSTUNREACH 85.10.205.173:3306
+2023-01-10T07:24:04.219Z - [ERROR  ] - ER_ACCESS_DENIED_ERROR: Access denied for user 'mahesh7'@'49.204.227.78' (using password: YES)
+2023-01-10T07:43:22.213Z - [ERROR  ] - Name already exists
+2023-01-10T10:04:18.133Z - [ERROR  ] - Email already exists
+2023-01-10T10:05:07.128Z - [ERROR  ] - Email already exists
+2023-01-10T10:05:47.060Z - [ERROR  ] - Email already exists
+2023-01-10T10:06:34.979Z - [ERROR  ] - Name already exists
+2023-01-10T10:09:41.242Z - [ERROR  ] - Email already exists
+2023-01-10T10:12:12.174Z - [ERROR  ] - Email already exists
+2023-01-10T10:20:08.737Z - [ERROR  ] - Email already exists
+2023-01-10T11:26:50.268Z - [ERROR  ] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2023-01-10T11:27:25.963Z - [ERROR  ] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2023-01-10T11:28:49.198Z - [ERROR  ] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2023-01-10T11:55:59.638Z - [ERROR  ] - No recipients defined
+2023-01-10T12:25:25.421Z - [ERROR  ] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2023-01-10T12:26:20.451Z - [ERROR  ] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2023-01-10T12:26:31.089Z - [ERROR  ] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2023-01-10T12:26:39.759Z - [ERROR  ] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2023-01-11T22:42:23.096Z - [ERROR  ] - getaddrinfo EAI_AGAIN db4free.net
+2023-01-12T06:43:28.900Z - [ERROR  ] - read ECONNRESET
+2023-01-12T08:00:07.516Z - [ERROR  ] - read ECONNRESET
+2023-01-12T11:01:06.251Z - [ERROR  ] - ER_CANT_CREATE_THREAD: Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug
+2023-01-12T11:24:35.196Z - [ERROR  ] - ER_CANT_CREATE_THREAD: Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug
+2023-01-12T11:44:23.354Z - [ERROR  ] - ER_CANT_CREATE_THREAD: Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug
+2023-01-13T05:48:49.886Z - [ERROR  ] - getaddrinfo EAI_AGAIN db4free.net
+2023-01-13T05:49:04.224Z - [ERROR  ] - getaddrinfo EAI_AGAIN db4free.net
+2023-01-13T10:47:07.353Z - [ERROR  ] - ER_CANT_CREATE_THREAD: Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug
+2023-01-13T10:47:10.075Z - [ERROR  ] - Cannot enqueue Query after fatal error.
+2023-01-13T10:47:28.429Z - [ERROR  ] - ER_CANT_CREATE_THREAD: Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug
+2023-01-13T11:08:00.090Z - [ERROR  ] - ER_CANT_CREATE_THREAD: Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug
+2023-01-13T13:41:13.973Z - [ERROR  ] - read ECONNRESET
+2023-01-14T06:11:01.701Z - [ERROR  ] - getaddrinfo EAI_AGAIN db4free.net
+2023-01-14T06:29:06.672Z - [ERROR  ] - read ECONNRESET
+2023-01-14T07:47:57.736Z - [ERROR  ] - getaddrinfo EAI_AGAIN db4free.net
+2023-01-14T08:11:47.662Z - [ERROR  ] - read ECONNRESET
+2023-01-14T08:35:04.764Z - [ERROR  ] - read ECONNRESET
+2023-01-14T10:55:36.332Z - [ERROR  ] - read ECONNRESET
+2023-01-14T12:24:42.009Z - [ERROR  ] - read ECONNRESET
