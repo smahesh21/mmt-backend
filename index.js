@@ -12,6 +12,9 @@ const resendApi = require('./Controllers/resendOTP');
 const logger = require("./logger");
 const passwordResetApi = require('./Controllers/passwordResetController')
 const razorApi = require('./Controllers/razorpay')
+const dotenv = reqire('dotenv')
+
+dotenv.config()
 
 const app = express();
 const PORT = process.env.PORT || 5000
